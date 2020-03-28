@@ -6,5 +6,5 @@ def f():
 #Sam wrote another function
 def g():
 
-#add a new function g1
+#created a new function
 def g1():
